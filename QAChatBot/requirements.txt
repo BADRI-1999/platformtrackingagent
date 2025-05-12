@@ -1,0 +1,25 @@
+pypdf
+langchain
+langchain_community
+torch
+accelerate
+bitsandbytes
+transformers
+sentence-transformers
+faiss-cpu
+chainlit
+huggingface-hub
+ctransformers
+sqlalchemy
+pandas
+numpy
+protobuf
+safetensors
+tokenizers
+urllib3
+requests
+certifi
+# Cassandra dependencies
+cassandra-driver
+cassio
+python-dotenv

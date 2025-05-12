@@ -1,0 +1,7 @@
+/models/
+/data/
+/LawDoc/
+/LawDocbase/
+/files/
+/.chainlit/
+qa_database.db
